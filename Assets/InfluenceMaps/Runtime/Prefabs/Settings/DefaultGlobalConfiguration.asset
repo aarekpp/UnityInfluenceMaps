@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8444f1d461dcdd42b09668a93b494cc, type: 3}
+  m_Name: DefaultGlobalConfiguration
+  m_EditorClassIdentifier: InfluenceMaps::InfluenceMaps.InfluenceMapsGlobalConfig
+  gridSettings:
+    worldSizeX: 20
+    worldSizeZ: 20
+    cellsX: 20
+    originMode: 1
+    origin: {x: 0, y: 0, z: 0}
+  propagationSettings:
+    propagationFunction: {fileID: 11400000, guid: c4857bb92d17bb245b24fdd491b9d46b, type: 2}
+  decaySettings:
+    decayFunction: {fileID: 11400000, guid: 5fc39a77fa4350c4aac887ea979b829e, type: 2}
+    useOutOfRangeFade: 0
+    outOfRangeFadeFactor: 0.1
+  updateSettings:
+    mode: 2
+    interval: 1
+    targetFPS: 10
+  pipelineSettings:
+    mode: 0
+    customPipeline: {fileID: 0}
+    applyClamp: 0
+    minInfluenceValue: -1
+    maxInfluenceValue: 1
+  visualizationSettings:
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 0, b: 0, a: 1}
+      key1: {r: 0, g: 1, b: 0, a: 0}
+      key2: {r: 0, g: 0, b: 0, a: 1}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 32768
+      atime2: 65535
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_ColorSpace: -1
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 3
+    autoRange: 1
+    minValue: -1
+    maxValue: 1
+    enabled: 0
+    showGridLines: 1
+    showValues: 1
+    alpha: 0

@@ -1,0 +1,16 @@
+{
+    "name": "InfluenceMaps.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a066f7d8226f3664b917f902ebba7a42"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

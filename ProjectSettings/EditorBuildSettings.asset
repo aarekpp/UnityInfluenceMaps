@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/TestRunner2.unity
+    guid: 8905f50615c41404bb3f311629363fad
+  - enabled: 1
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/Obstacles/128x128x0.unity
+    guid: ce8f08104c298e14bba0408d9e4de417
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/TestRunner.unity
+    guid: bd206c0207dee8945986502610a4d9ba
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/CellSizes/128x128x64.unity
+    guid: 2ff48daf51f04734cba641c6fccbfdba
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/CellSizes/128x128x128.unity
+    guid: bb3cbe6b01a75d846b8d72f0fc3c5ab4
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/CellSizes/128z128x256.unity
+    guid: 6931c0a909b1e79469eded9123125c4a
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/CellSizes/128x128x512.unity
+    guid: 0bc446f367febba438c4b7b039181313
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/Maps/128x128x2.unity
+    guid: 48ae433bff1d9d94299c7f1cf80a4ab1
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/Maps/128x128x4.unity
+    guid: 0b708120b85d93544a35a09fe50f30f8
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/Maps/128x128x8.unity
+    guid: d6213e9fc060faf42ab66404688747f0
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/Maps/128x128x16.unity
+    guid: dc44d279adac2b04fa88b42286941d30
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/MapSizes/64x64.unity
+    guid: cf531d4bae8374a4d99f0f753856f57a
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/MapSizes/256x256.unity
+    guid: bb3f382d942699049a3b0708c09bd0ff
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/MapSizes/S128x128.unity
+    guid: 70b9f280eb3e5304eb4f5d2c815f2cf8
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/MapSizes/512x512.unity
+    guid: 8d9b27bdc3544fc49a96516f3f7ac38b
+  - enabled: 1
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/Obstacles/128x128x5.unity
+    guid: 0a415d559dfbef647b9cfb4289bcfa55
+  - enabled: 1
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/Obstacles/128x128x10.unity
+    guid: a9eb799b79039ce4e900c7345a2fcd2b
+  - enabled: 1
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/Obstacles/128x128x20.unity
+    guid: 147bd718892afb44784273d5c534c6a4
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/Range/Size5_128x128.unity
+    guid: 575f0a9caf42b0f459e2b8fca79cfb4c
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/Range/Size10_128x128.unity
+    guid: f4ffe36cb871ceb4da96e2f97fb05057
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/Range/Size15_128x128.unity
+    guid: 27a1d4c81b8cdba459ad6e0004376c48
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/Range/Size20_128x128.unity
+    guid: 66fa2b772a980e743a5981b44ddf03fd
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/Sources/256x256x10.unity
+    guid: a4992b7fccea414469ceecfbea1782f9
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/Sources/256x256x50.unity
+    guid: 0e90ae7f7bdae224ba80b3820ff7f49e
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/Sources/256x256x100.unity
+    guid: df5a7fcafe2e1044b8fd4d25b4efb368
+  - enabled: 0
+    path: Assets/InfluenceMaps/Samples/PerformanceTests/Sources/256x256x200.unity
+    guid: b7370913531281346aeae9fcc8454307
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
