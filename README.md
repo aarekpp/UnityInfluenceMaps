@@ -35,6 +35,7 @@ Developed as an M.<span></span>Sc. Eng. Thesis project at Rzeszow University of 
 
 Designed in compliance with the official Unity Package Manager (UPM) layout:
 
+```
 InfluenceMaps/
 ├── Editor/
 │ └── InfluenceMapDebugWindow.cs # Custom diagnostic EditorWindow tool
@@ -49,6 +50,7 @@ InfluenceMaps/
 │ ├── Utilities/ # Constants and UpdateScheduler
 │ └── Visualization/ # Gizmo drawers, MeshRenderer visualizers, Layer configs
 └── Samples/ # Demo scenes showcasing AI, obstacles, and multi-map setups
+```
 
 ---
 
